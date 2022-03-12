@@ -1,0 +1,11 @@
+#Begin jetpack SEO Tools Sitemap. Do not remove
+Sitemap: /sitemap.xml
+#Begin jetpack SEO Tools Sitemap. Do not remove
+
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/4927447.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove
+
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/4927448.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove
